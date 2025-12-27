@@ -1,0 +1,26 @@
+{
+  "name": "Method Mask Toys",
+  "short_name": "Method Mask",
+  "description": "Precision masking, spray masks, copper fixtures, roto moulding, and toy mould manufacturing for toy manufacturers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0074D9",
+  "icons": [
+    {
+      "src": "/methodMask-icon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/methodmask-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/methodmask-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
